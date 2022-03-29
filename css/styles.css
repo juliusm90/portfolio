@@ -1,0 +1,109 @@
+body {
+  color: black;
+  background-color: #EEEEEE;
+  line-height: 1.5;
+  font-size: 18px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 3%;
+}
+
+#wrapper {
+  background-color: #ffff;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+/* Navbar Section */
+.navbar {
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.navbar-brand {
+  margin: 0 18px;
+}
+
+.nav-link {
+  color: #545454;
+  margin: 0 18px;
+}
+
+/* BANNER SECTION */
+.banner-img {
+  width: 100%;
+}
+
+/* PROJECT WEBSITES */
+.siteContainer {
+  padding: 10% 5% 5% 5%;
+}
+
+.site-img {
+  width: 400px;
+  border-radius: 5%;
+  border: 2px solid black;
+}
+
+.site-bio {
+  float: right;
+}
+
+#footer {
+  background-color: #EEEEEE;
+}
+
+.contact-info {
+  font-size: 8px;
+  text-align: center;
+  line-height: 10px;
+}
+
+/* Resume Section */
+#resume-header {
+  color: #ffff;
+  line-height: 1.5;
+  background-color: #38b6ff;
+}
+
+.name {
+  font-size: 3rem;
+  padding: 1% 7% 0;
+}
+
+.headerContact {
+  padding: 2% 0 0 15%;
+}
+
+/* Resume Body Section */
+#onlineCourses {
+  background-color: #EEEEEE:
+}
+
+.course-heading {
+  padding: 3.5% 7%;
+}
+
+.course-name {
+  padding: 3.5% 7%;
+  line-height: 1.5;
+}
+.projects {
+  padding-top: 20%;
+}
+
+/* FOOTER SECTION */
+.contact-info {
+  padding-top: 2%;
+  font-size: 1rem;
+  border: 1px solid black;
+}
